@@ -22,11 +22,11 @@ It provides a clean drag-and-drop interface, real-time updates, and collaboratio
 ---
 
 ## ⚙️ Tech Stack
-**Frontend:** React, Tailwind CSS / Material UI, Redux (or Context API)  
+**Frontend:** React, Tailwind CSS, Redux 
 **Backend:** Node.js, Express.js  
-**Database:** MongoDB / PostgreSQL  
+**Database:** MongoDB  
 **Authentication:** JWT, role-based access  
-**Deployment:** Docker + AWS / Vercel / Render  
+**Deployment:** Render 
 
 ---
 
